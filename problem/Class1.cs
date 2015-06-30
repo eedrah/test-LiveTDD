@@ -10,7 +10,7 @@ namespace problem
     {
         public void TestMethod()
         {
-            
+            // Test comment
         }
     }
 }
