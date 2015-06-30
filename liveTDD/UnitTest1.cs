@@ -10,6 +10,7 @@ namespace liveTDD
         public void TestMethod1()
         {
             // test comment in the test method
+            // another test comment
         }
     }
 }
